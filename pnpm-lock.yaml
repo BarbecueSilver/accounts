@@ -71,7 +71,7 @@ importers:
 
   examples/graphql-server-typeorm-postgres:
     specifiers:
-      '@accounts/graphql-api': ^0.33.1
+      '@accounts/graphql-api': ^0.33.2
       '@accounts/password': ^0.32.1
       '@accounts/server': ^0.33.1
       '@accounts/typeorm': ^0.33.1
@@ -111,7 +111,7 @@ importers:
   examples/graphql-server-typescript:
     specifiers:
       '@accounts/database-manager': ^0.33.1
-      '@accounts/graphql-api': ^0.33.1
+      '@accounts/graphql-api': ^0.33.2
       '@accounts/mongo': ^0.33.5
       '@accounts/password': ^0.32.1
       '@accounts/rest-express': ^0.33.1
@@ -620,7 +620,7 @@ importers:
     specifiers:
       '@accounts/client': ^0.33.1
       '@accounts/client-password': ^0.32.2
-      '@accounts/graphql-api': ^0.33.1
+      '@accounts/graphql-api': ^0.33.2
       '@accounts/graphql-client': ^0.33.1
       '@accounts/mongo': ^0.33.5
       '@accounts/password': ^0.32.1
